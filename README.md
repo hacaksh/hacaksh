@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Building security tools in Python<br>- My OSINT automation projects<br><br>👯 I’m looking to collaborate on<br>- Cybersecurity tools<br>- OSINT projects<br>- Open-source security research<br><br>🤝 I’m looking for help with<br>- Advanced penetration testing techniques<br>- Better exploit development practices<br><br>🌱 I’m currently learning<br>- Ethical hacking & pentesting<br>- Advanced Python for security<br>- Calisthenics progressions<br><br>💬 Ask me about<br>- OSINT<br>- Cybersecurity basics<br>- Python scripting<br>- Trading ideas<br><br>⚡ Fun fact<br>- I can do 50 wide push-ups in one go 🚀
+🔭 I’m currently working on<br>- Building security tools in Python<br>- My OSINT automation projects<br><br>👯 I’m looking to collaborate on<br>- Cybersecurity tools<br>- OSINT projects<br>- Open-source security research<br><br>🤝 I’m looking for help with<br>- Advanced penetration testing techniques<br>- Better exploit development practices<br><br>🌱 I’m currently learning<br>- Ethical hacking & pentesting<br>- Advanced Python for security<br>- Calisthenics progressions<br><br>💬 Ask me about<br>- OSINT<br>- Cybersecurity basics<br>- Python scripting<br>- Trading ideas<br><br>⚡ 
 
 
 ## 🌐 Socials:
